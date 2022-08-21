@@ -13,5 +13,5 @@ int main()
         if(n==i)
         {cout<<"prime";}
     
-    return ;
+    return 0;
 }
