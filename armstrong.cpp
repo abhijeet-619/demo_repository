@@ -11,7 +11,7 @@ int main()
     while(n>0)
     { 
         remainder=n%10;
-        sum=sum+(pow(_issue_sum1,3));
+        sum=sum+(pow(_issue_sum1_c4,3));
         n/=10;
     }
     if(sum==p)
